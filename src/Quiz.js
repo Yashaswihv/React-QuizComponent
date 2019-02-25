@@ -12,4 +12,5 @@ class Quiz extends Component{
 			<div classname = "QuizQuestion">{quizData.quiz_questions[0].instruction_text}</div>
 			)
 	}
-}export default Quiz 
+}
+export default Quiz 
